@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f9f9f9;
+  background: ##FF0000;
   color: #333;
 }
 
@@ -67,3 +67,4 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
